@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapImage", "ScrapImage\ScrapImage.csproj", "{4683C384-E552-4D94-8BCB-9C50CCA54709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4683C384-E552-4D94-8BCB-9C50CCA54709}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4683C384-E552-4D94-8BCB-9C50CCA54709}.Release|Any CPU.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
